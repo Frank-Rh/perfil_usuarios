@@ -7,4 +7,4 @@ luego le añadire para poder edtar con comandos sin necesidad de acceso a la bas
 
 # Debes que tener una carpeta llamada users, bueno mas bien crearla xD
 
-[Carpeta](https://github.com/zFrankk/perfil_usuarios/blob/main/carpeta.png?raw=true)
+<img src="https://github.com/zFrankk/perfil_usuarios/blob/main/carpeta.png?raw=true" width="350" title="hover text">
